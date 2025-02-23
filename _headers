@@ -1,0 +1,3 @@
+/*
+  X-Frame-Options: ALLOW-FROM https://chokhoahoc.com
+  Content-Security-Policy: frame-ancestors https://chokhoahoc.com;
